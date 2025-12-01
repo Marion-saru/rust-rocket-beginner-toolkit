@@ -1,0 +1,14 @@
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/deps/ref_cast-d319b6948e96d31d.d: /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/lib.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/custom.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/layout.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/trivial.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/private.rs /home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/ref-cast-5cbddc07062571c2/out/private.rs
+
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/deps/libref_cast-d319b6948e96d31d.rlib: /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/lib.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/custom.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/layout.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/trivial.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/private.rs /home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/ref-cast-5cbddc07062571c2/out/private.rs
+
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/deps/libref_cast-d319b6948e96d31d.rmeta: /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/lib.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/custom.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/layout.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/trivial.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/private.rs /home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/ref-cast-5cbddc07062571c2/out/private.rs
+
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/lib.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/custom.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/layout.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/trivial.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ref-cast-1.0.25/src/private.rs:
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/ref-cast-5cbddc07062571c2/out/private.rs:
+
+# env-dep:OUT_DIR=/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/ref-cast-5cbddc07062571c2/out

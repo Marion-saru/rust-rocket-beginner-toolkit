@@ -1,0 +1,14 @@
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/deps/serde-5a81ac622a3406de.d: /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/serde-08f812c234a498cb/out/private.rs
+
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/deps/libserde-5a81ac622a3406de.rlib: /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/serde-08f812c234a498cb/out/private.rs
+
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/deps/libserde-5a81ac622a3406de.rmeta: /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/serde-08f812c234a498cb/out/private.rs
+
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/marionsaru/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/serde-08f812c234a498cb/out/private.rs:
+
+# env-dep:OUT_DIR=/home/marionsaru/rust-rocket-beginner-toolkit/rust-rocket-api/target/debug/build/serde-08f812c234a498cb/out
