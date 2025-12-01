@@ -173,7 +173,7 @@ rust-rocket-beginner-toolkit/
 
 ---
 
-## 🔟 References
+## 9️⃣ References
 
 - [Rust Official Website](https://www.rust-lang.org)
 - [Rocket Official Website](https://rocket.rs)
