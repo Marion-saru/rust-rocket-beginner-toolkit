@@ -1,0 +1,26 @@
+# Rust/Cargo build artifacts
+target/
+
+# Cargo.lock should be ignored for libraries, but kept for binaries
+# Keeping it here since this is a binary project
+# Cargo.lock
+
+# Debug and release builds
+debug/
+release/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+esd.yml
+Thumbs.db
